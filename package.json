@@ -8,8 +8,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "boxicons": "^2.1.2",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "countapi-js": "^1.0.2",
+    "izitoast": "^1.4.0",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.14"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",

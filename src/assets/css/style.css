@@ -1,0 +1,15 @@
+:root {
+    --body-font: "Inter", sans-serif;
+    --theme-bg: #1f1d2b;
+    --body-color: #808191;
+    --button-bg: #353340;
+    --border-color: rgb(128 129 145 / 24%);
+    --video-bg: #252936;
+    --delay: 0s;
+    --bgcote: #111;
+}
+
+body{
+    background-color: var(--theme-bg);
+    overflow-y: hidden;
+}
