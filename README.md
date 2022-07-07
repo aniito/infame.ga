@@ -30,7 +30,7 @@ ps : je suis pas responsable du contenu sur la plateforme
 
 ## Setup
 
-### Prerequisites
+### Prérequis
 
 - installer les packages
 ```sh
