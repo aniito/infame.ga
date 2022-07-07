@@ -15,9 +15,10 @@
 
 ## Sur le projet
 
-site web pour tester le framework VueJs, les vidéos sont stockées sur un site d'hébergement vidéo
-système de recherche + lien unique par vidéo en front-end
-ps : je suis pas responsable du contenu sur la plateforme
+site web pour tester le framework VueJs, les vidéos sont stockées sur un site d'hébergement vidéo<br/>
+système de recherche + lien unique par vidéo en front-end <br />
+ps : je suis pas responsable du contenu sur la plateforme <br />
+les vidéos sont mises dans la variable `videos` > `src/components/Home.vue`
 
 ### utilisation de :
 
@@ -30,7 +31,7 @@ ps : je suis pas responsable du contenu sur la plateforme
 
 ## Setup
 
-### Prérequis
+### Prerequisites
 
 - installer les packages
 ```sh
